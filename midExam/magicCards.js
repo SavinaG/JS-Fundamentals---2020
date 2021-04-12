@@ -1,0 +1,5 @@
+function magicCards(array){
+
+
+}
+magicCards();

@@ -1,0 +1,5 @@
+function listManipulator(array){
+
+
+}
+listManipulator();
